@@ -1,8 +1,9 @@
-
 <h1 align="center">Hi 👋, I'm Utpal Kant</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
 - 🌱 I’m currently learning **Node js, express js**
+
+- 🔭 I’m currently working on **some cool projects**
 
 - 💬Talk with me about anything related to **Backend-Development, technology, career 🚀 and music 🎵**
 
