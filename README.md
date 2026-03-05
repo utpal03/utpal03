@@ -106,8 +106,4 @@ Backend Development • System Design • Rule Engines • Distributed Systems �
 <a href="https://www.linkedin.com/in/utpal-kant-334b42257/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
-
-<a href="https://www.leetcode.com/m3_micky" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-</a>
 </p>
