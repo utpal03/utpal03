@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 BSC CS (Class of 2025) | CPI: 8.30   
+- 🎓 Bachelor’s in CS (Class of 2025) | CPI: 8.30   
 - 🏦 Worked on AML (Anti-Money Laundering) system building a **Rule Engine**
 - 🔥 Experienced in building production-grade REST APIs
 - ☁️ Working with AWS S3, Docker & secure JWT authentication
