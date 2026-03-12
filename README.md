@@ -18,7 +18,7 @@
 
 ## 💼 Professional Experience
 
-### 🏢 Backend Developer Intern — Growhut
+### 🏢 Backend Developer — Growhut
 
 - Refactoring & enhancing complex **.NET 9 backend architecture**
 - Developed REST APIs using ASP.NET Core Web API
